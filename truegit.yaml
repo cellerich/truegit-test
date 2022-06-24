@@ -1,5 +1,5 @@
-title: OverReact
-description: I love React so much that I overReact.
+title: llerich's Test Blog
+description: Trying out new stuff is always fun
 # Theme must be a HEX value inside quotes
 theme: "#CF508A"
 backgroundColor: "#FAF5EF"
@@ -11,25 +11,22 @@ navLinks:
     url: https://docs.truegit.io
     isExternal: true
   - title: Clone Me
-    url: https://github.com/Kollate/truegit-test
+    url: https://github.com/cellerich/truegit-test
     isExternal: true
 socials:
-  linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-  instagram: https://www.instagram.com/quantdaddy/
-  github: https://github.com/quant-daddy
+  linkedin: https://www.linkedin.com/in/marcelspring/
+  github: https://github.com/cellerich
 authors:
-  quantdaddy:
-    name: Suraj Keshri
-    title: Founder, Gully
-    description: Enjoys coding and coding only
-    url: https://gully.to
-    profileImage: "./assets/quantdaddy.jpeg"
+  cello:
+    name: Cello Spring
+    title: Thinkerer, Entrepreneur
+    description: Enjoys a lot, under water, on earth and in the air
+    url: https://cellerich.ch 
+    profileImage: "./assets/cello.jpeg"
     socials:
-      linkedin: https://www.linkedin.com/in/suraj-keshri-50a53617/
-      instagram: https://www.instagram.com/quantdaddy/
-      github: https://github.com/quant-daddy
-      twitter: https://twitter.com/quantdaddy
+      linkedin: https://www.linkedin.com/in/marcelspring/
+      github: https://github.com/cellerich
+      twitter: https://twitter.com/cellerich  
       url: https://google.com
-      youtube: https://www.youtube.com/channel/UC5YwzJ-Vv_akOUIe5FZ-zDA
-      email: hello@truegit.io
-      reddit: https://www.reddit.com/r/kubernetes/
+      email: sayhello@cello.ch
+
